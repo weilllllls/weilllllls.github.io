@@ -1,6 +1,6 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.09*: 🎉 EvolveDirector is accepted by **NeurIPS 2024**. Congrats to Rui.
+- *2024.02*: 🎉 [DreamVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_DreamVideo_Composing_Your_Dream_Videos_with_Customized_Subject_and_Motion_CVPR_2024_paper.html), [InstructVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_InstructVideo_Instructing_Video_Diffusion_Models_with_Human_Feedback_CVPR_2024_paper.html), [HiGen](https://openaccess.thecvf.com/content/CVPR2024/html/Qing_Hierarchical_Spatio-temporal_Decoupling_for_Text-to-Video_Generation_CVPR_2024_paper.html) are accepted by **CVPR 2024**. Honored to collaborate with them on these promising projects.
+- *2023.08*: 🎉 [Emo-DNA](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) is accepted by **ACM MM 2023**. Congrats to Jiaxin.
+- *2023.07*: 🎉 [OnPro](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html) is accepted by **ICCV 2023**.
+- *2023.02*: 🎉 [Temporal Modeling Matters](https://ieeexplore.ieee.org/abstract/document/10096370) is accepted by ICASSP 2023. Congrats to Jiaxin.
