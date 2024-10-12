@@ -2,7 +2,6 @@
 # 📝 Publications 
 ## Video Generation
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/DreamVideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,6 +44,20 @@ Zhiwu Qing, Shiwei Zhang, Jiayu Wang, Xiang Wang, **Yujie Wei**, Yingya Zhang, C
 </div>
 </div>
 
+## Image Generation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/EvolveDirector.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](https://arxiv.org/abs/2410.07133) \\
+Rui Zhao, Hangjie Yuan, **Yujie Wei**, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Zhangjie Wu, Junhao Zhang, Yingya Zhang, Mike Zheng Shou
+
+[[Code]](https://github.com/showlab/EvolveDirector)
+
+- EvolveDirector explores the feasibility of training a text-to-image generation model comparable to advanced models using publicly available resources.
+</div>
+</div>
+
 
 ## Continual Learning
 
@@ -54,6 +67,9 @@ Zhiwu Qing, Shiwei Zhang, Jiayu Wang, Xiang Wang, **Yujie Wei**, Yingya Zhang, C
 [Online Prototype Learning for Online Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html) \\
 **Yujie Wei**, Jiaxin Ye, Zhizhong Huang, Junping Zhang, Hongming Shan
 
+[[Code]](https://github.com/weilllllls/OnPro)
+
+- OnPro is the first work to identify shortcut learning as the key limiting factor for online continual learning, offering new insights into why online learning models fail to generalize well.
 </div>
 </div>
 
