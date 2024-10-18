@@ -2,6 +2,18 @@
 # 📝 Publications 
 ## Video Generation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/papers/DreamVideo-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) \\
+**Yujie Wei**, Shiwei Zhang, Hangjie Yuan, Xiang Wang, Haonan Qiu, Rui Zhao, Yutong Feng, Feng Liu, Zhizhong Huang, Jiaxin Ye, Yingya Zhang, Hongming Shan
+
+[[Project page]](https://dreamvideo2.github.io/)
+
+- DreamVideo-2 is the first zero-shot (tuning-free) framework that generates customized videos with specified subjects and motion trajectories.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/DreamVideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
