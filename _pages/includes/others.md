@@ -1,15 +1,18 @@
 # 🎓 Academic Service
 - Conference Reviewer of ICLR 2025.
 
+# 💬 Invited Talks
+- *2024.11*, Customized Image & Video Generation, 3D视觉工坊 & 3DCV & 计算机视觉工坊 \| [\[Link\]](https://mp.weixin.qq.com/s/j6qBhzircJHQIQGTwGUu-g)
+
 # 📖 Educations
 - *2022.09 - 2027.06* (now), Ph.D., Fudan University, Shanghai, China.
 - *2018.09 - 2022.06*, Bachelor of Software Engineering, Sichuan Univeristy, Chengdu, China.
 
-<!-- # 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+<!-- 
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
+- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk 
+-->
 
 <!-- # 💻 Internships
 - *2021.06 - 2021.09*, Alibaba, Hangzhou.
