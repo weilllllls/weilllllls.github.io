@@ -2,7 +2,7 @@
 - Conference Reviewer of ICLR 2025.
 
 # 💬 Invited Talks
-- *2024.11*, Customized Image & Video Generation, 3D视觉工坊 & 3DCV & 计算机视觉工坊 \| [\[Link\]](https://mp.weixin.qq.com/s/j6qBhzircJHQIQGTwGUu-g)
+- *2024.11*, Customized Image & Video Generation, 3D视觉工坊 & 3DCV & 计算机视觉工坊 \| [\[Link\]](https://mp.weixin.qq.com/s/j6qBhzircJHQIQGTwGUu-g) \| [\[Video\]](https://cloud.video.taobao.com/vod/HLCrYryTROJLr7G8MsaAVo7VRgLehQL80ubWTg4WmNs.mp4)
 
 # 📖 Educations
 - *2022.09 - 2027.06* (now), Ph.D., Fudan University, Shanghai, China.
