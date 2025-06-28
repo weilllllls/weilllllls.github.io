@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.06*: 🎉 [DreamRelation](https://arxiv.org/abs/2503.07602), [FreeScale](https://arxiv.org/abs/2412.09626), [PersonalVideo](https://arxiv.org/abs/2411.17048) are accepted by **ICCV 2025**. Honored to collaborate with them on these promising projects.
+- *2025.03*: 🎉 [TeaCache](https://arxiv.org/abs/2411.19108) is accepted by **CVPR 2025**. Congrats to Feng.
 - *2024.09*: 🎉 [EvolveDirector](https://arxiv.org/abs/2410.07133) is accepted by **NeurIPS 2024**. Congrats to Rui.
 - *2024.02*: 🎉 [DreamVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_DreamVideo_Composing_Your_Dream_Videos_with_Customized_Subject_and_Motion_CVPR_2024_paper.html), [InstructVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_InstructVideo_Instructing_Video_Diffusion_Models_with_Human_Feedback_CVPR_2024_paper.html), [HiGen](https://openaccess.thecvf.com/content/CVPR2024/html/Qing_Hierarchical_Spatio-temporal_Decoupling_for_Text-to-Video_Generation_CVPR_2024_paper.html) are accepted by **CVPR 2024**. Honored to collaborate with them on these promising projects.
 - *2023.08*: 🎉 [Emo-DNA](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) is accepted by **ACM MM 2023**. Congrats to Jiaxin.
