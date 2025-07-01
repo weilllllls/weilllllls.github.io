@@ -1,5 +1,5 @@
 # 🎓 Academic Service
-- Conference Reviewer: ICLR, CVPR, ICCV, ACM MM, NeurIPS.
+- Conference Reviewer: ICLR, CVPR, ICCV, ACM MM, NeurIPS, SIGGRAPH Asia.
 
 # 💬 Invited Talks
 - *2024.11*, Customized Image & Video Generation, 3D视觉工坊 & 3DCV & 计算机视觉工坊 \| [\[Link\]](https://mp.weixin.qq.com/s/j6qBhzircJHQIQGTwGUu-g) \| [\[Video\]](https://youtu.be/wAiL3DLz9-E)
