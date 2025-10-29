@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.09*: 🎉 [RepLDM](https://arxiv.org/abs/2410.06055), [TTS-VAR](https://arxiv.org/abs/2507.18537) are accepted by **NeurIPS 2025**. Honored to collaborate with them on these promising projects.
 - *2025.06*: 🎉 [DreamRelation](https://arxiv.org/abs/2503.07602), [FreeScale](https://arxiv.org/abs/2412.09626), [PersonalVideo](https://arxiv.org/abs/2411.17048) are accepted by **ICCV 2025**. Honored to collaborate with them on these promising projects.
 - *2025.03*: 🎉 [TeaCache](https://arxiv.org/abs/2411.19108) is accepted by **CVPR 2025 Highlight**. Congrats to Feng.
 - *2024.09*: 🎉 [EvolveDirector](https://arxiv.org/abs/2410.07133) is accepted by **NeurIPS 2024**. Congrats to Rui.
