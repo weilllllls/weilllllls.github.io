@@ -1,6 +1,29 @@
 
 # 📝 Publications 
-## Video Generation
+
+## Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/ProMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance](https://arxiv.org/abs/2510.24711) \\
+**Yujie Wei**, Shiwei Zhang, Hangjie Yuan, Yujin Han, Zhekai Chen, Jiayu Wang, Difan Zou, Xihui Liu, Yingya Zhang, Yu Liu, Hongming Shan
+
+- ProMoE is an MoE framework featuring a two-step router with explicit routing guidance that promotes expert specialization.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/DreamRelation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DreamRelation: Relation-Centric Video Customization](https://arxiv.org/abs/2503.07602) \\
+**Yujie Wei**, Shiwei Zhang, Hangjie Yuan, Biao Gong, Longxiang Tang, Xiang Wang, Haonan Qiu, Hengjia Li, Shuai Tan, Yingya Zhang, Hongming Shan
+
+[[Project page]](https://dreamrelation.github.io/)
+
+- DreamRelation is the first relational video customization method that personalizes user-specified relations.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/DreamVideo.png' alt="sym" width="100%"></div></div>
@@ -17,6 +40,19 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/OnPro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Online Prototype Learning for Online Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html) \\
+**Yujie Wei**, Jiaxin Ye, Zhizhong Huang, Junping Zhang, Hongming Shan
+
+[[Code]](https://github.com/weilllllls/OnPro)
+
+- OnPro is the first work to identify shortcut learning as the key limiting factor for online continual learning, offering new insights into why online learning models fail to generalize well.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/papers/DreamVideo-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -29,15 +65,19 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/DreamRelation.png' alt="sym" width="100%"></div></div>
+## Co-authored Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/FreeScale.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DreamRelation: Relation-Centric Video Customization](https://arxiv.org/abs/2503.07602) \\
-**Yujie Wei**, Shiwei Zhang, Hangjie Yuan, Biao Gong, Longxiang Tang, Xiang Wang, Haonan Qiu, Hengjia Li, Shuai Tan, Yingya Zhang, Hongming Shan
+[FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
+Haonan Qiu, Shiwei Zhang, **Yujie Wei**, Ruihang Chu, Hangjie Yuan, Xiang Wang, Yingya Zhang, Ziwei Liu
 
-[[Project page]](https://dreamrelation.github.io/)
+[[Project page]](http://haonanqiu.com/projects/FreeScale.html)
+[[Code]](https://github.com/ali-vilab/FreeScale)
 
-- DreamRelation is the first relational video customization method that personalizes user-specified relations.
+- FreeScale proposes a tuning-free inference paradigm to enable higher-resolution visual generation via scale fusion.
+
 </div>
 </div>
 
@@ -53,6 +93,20 @@ Feng Liu, Shiwei Zhang, Xiaofeng Wang, **Yujie Wei**, Haonan Qiu, Yuzhong Zhao, 
 - TeaCache is a training-free caching approach that estimates and leverages the fluctuating differences among model outputs across timesteps.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/EvolveDirector.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](https://arxiv.org/abs/2410.07133) \\
+Rui Zhao, Hangjie Yuan, **Yujie Wei**, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Zhangjie Wu, Junhao Zhang, Yingya Zhang, Mike Zheng Shou
+
+[[Code]](https://github.com/showlab/EvolveDirector)
+
+- EvolveDirector explores the feasibility of training a text-to-image generation model comparable to advanced models using publicly available resources.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/InstructVideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,53 +136,12 @@ Zhiwu Qing, Shiwei Zhang, Jiayu Wang, Xiang Wang, **Yujie Wei**, Yingya Zhang, C
 </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
+- `NeurIPS 2025 Spotlight` [RepLDM: Reprogramming Pretrained Latent Diffusion Models for High-Quality, High-Efficiency, High-Resolution Image Generation](https://arxiv.org/abs/2410.06055),Boyuan Cao, Jiaxin Ye, **Yujie Wei**, Hongming Shan.
+
+- `NeurIPS 2025` [TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation](https://arxiv.org/abs/2507.18537), Zhekai Chen, Ruihang Chu, Yukang Chen, Shiwei Zhang, **Yujie Wei**, Yingya Zhang, Xihui Liu.
+
 - `ICCV 2025` [PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation](https://arxiv.org/abs/2411.17048), Hengjia Li, Haonan Qiu, Shiwei Zhang, Xiang Wang, **Yujie Wei**, Zekun Li, Yingya Zhang, Boxi Wu, Deng Cai.
-</div>
 
-## Image Generation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/EvolveDirector.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](https://arxiv.org/abs/2410.07133) \\
-Rui Zhao, Hangjie Yuan, **Yujie Wei**, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Zhangjie Wu, Junhao Zhang, Yingya Zhang, Mike Zheng Shou
-
-[[Code]](https://github.com/showlab/EvolveDirector)
-
-- EvolveDirector explores the feasibility of training a text-to-image generation model comparable to advanced models using publicly available resources.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/FreeScale.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
-Haonan Qiu, Shiwei Zhang, **Yujie Wei**, Ruihang Chu, Hangjie Yuan, Xiang Wang, Yingya Zhang, Ziwei Liu
-
-[[Project page]](http://haonanqiu.com/projects/FreeScale.html)
-[[Code]](https://github.com/ali-vilab/FreeScale)
-
-- FreeScale proposes a tuning-free inference paradigm to enable higher-resolution visual generation via scale fusion.
-
-</div>
-</div>
-
-
-## Continual Learning
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/OnPro.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Online Prototype Learning for Online Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html) \\
-**Yujie Wei**, Jiaxin Ye, Zhizhong Huang, Junping Zhang, Hongming Shan
-
-[[Code]](https://github.com/weilllllls/OnPro)
-
-- OnPro is the first work to identify shortcut learning as the key limiting factor for online continual learning, offering new insights into why online learning models fail to generalize well.
-</div>
-</div>
-
-## Speech Emotion Recognition
 - `ACM MM 2023` [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://openreview.net/forum?id=YfwMIDhPccD), Jiaxin Ye, **Yujie Wei**, Xin-Cheng Wen, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan.
+
 - `ICASSP 2023` [Temporal Modeling Matters: A Novel Temporal Emotional Modeling Approach for Speech Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10096370), Jiaxin Ye, Xin-Cheng Wen, **Yujie Wei**, Yong Xu, Kunhong Liu, Hongming Shan.

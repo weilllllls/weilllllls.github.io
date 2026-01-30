@@ -1,5 +1,5 @@
 # 🎓 Academic Service
-- Conference Reviewer: ICLR, CVPR, ICCV, ACM MM, NeurIPS, SIGGRAPH Asia.
+- Conference Reviewer: ICLR, CVPR, ICCV, ACM MM, NeurIPS, SIGGRAPH Asia, ICML.
 - Journal Reviewer: TPAMI, TIP.
 
 # 💬 Invited Talks
