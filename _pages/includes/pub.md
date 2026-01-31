@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/ProMoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance](https://arxiv.org/abs/2510.24711) \\
+**[Model Architecture]** [Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance](https://arxiv.org/abs/2510.24711) \\
 **Yujie Wei**, Shiwei Zhang, Hangjie Yuan, Yujin Han, Zhekai Chen, Jiayu Wang, Difan Zou, Xihui Liu, Yingya Zhang, Yu Liu, Hongming Shan
 
 - ProMoE is an MoE framework featuring a two-step router with explicit routing guidance that promotes expert specialization.
@@ -16,7 +16,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/DreamRelation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DreamRelation: Relation-Centric Video Customization](https://arxiv.org/abs/2503.07602) \\
+**[Video Generation]** [DreamRelation: Relation-Centric Video Customization](https://arxiv.org/abs/2503.07602) \\
 **Yujie Wei**, Shiwei Zhang, Hangjie Yuan, Biao Gong, Longxiang Tang, Xiang Wang, Haonan Qiu, Hengjia Li, Shuai Tan, Yingya Zhang, Hongming Shan
 
 [[Project page]](https://dreamrelation.github.io/)
@@ -29,7 +29,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/DreamVideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_DreamVideo_Composing_Your_Dream_Videos_with_Customized_Subject_and_Motion_CVPR_2024_paper.html) \\
+**[Video Generation]** [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_DreamVideo_Composing_Your_Dream_Videos_with_Customized_Subject_and_Motion_CVPR_2024_paper.html) \\
 **Yujie Wei**, Shiwei Zhang, Zhiwu Qing, Hangjie Yuan, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan
 
 [![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
@@ -43,7 +43,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/OnPro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Online Prototype Learning for Online Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html) \\
+**[Continual Learning]** [Online Prototype Learning for Online Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html) \\
 **Yujie Wei**, Jiaxin Ye, Zhizhong Huang, Junping Zhang, Hongming Shan
 
 [[Code]](https://github.com/weilllllls/OnPro)
@@ -56,7 +56,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/papers/DreamVideo-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) \\
+**[Video Generation]** [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) \\
 **Yujie Wei**, Shiwei Zhang, Hangjie Yuan, Xiang Wang, Haonan Qiu, Rui Zhao, Yutong Feng, Feng Liu, Zhizhong Huang, Jiaxin Ye, Yingya Zhang, Hongming Shan
 
 [[Project page]](https://dreamvideo2.github.io/)
@@ -65,7 +65,7 @@
 </div>
 </div>
 
-## Co-authored Publications
+## Collaborative Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/FreeScale.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

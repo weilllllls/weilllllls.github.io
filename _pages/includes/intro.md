@@ -4,8 +4,8 @@ I am Yujie Wei (卫昱杰), a fourth-year Ph.D. student at Fudan University, adv
 
 My research interests include 2D/3D Generative Models and Representation Learning, with a particular focus on:
 
-- Image and Video Generation (specifically on Customization and Controllable Generation)
+- Video and Image Generation (specifically on Customization and Controllable Generation)
 
-- Foundation Architecture Design
+- Foundation Model Architecture
 
 - Self-Supervised Learning
