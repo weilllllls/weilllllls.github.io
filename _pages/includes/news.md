@@ -1,11 +1,11 @@
 # 🔥 News
-- *2026.02*: 🎉 CineNeuron, [SynMotion](https://arxiv.org/abs/2506.23690) are accepted by **CVPR 2026**.
-- *2026.01*: 🎉 [ProMoE](https://arxiv.org/abs/2510.24711) is accepted by **ICLR 2026**. Honored to collaborate with them on these promising projects.
+- *2026.02*: 🎉 CineNeuron🚀, [SynMotion](https://arxiv.org/abs/2506.23690) are accepted by **CVPR 2026**. Honored to collaborate with them on these promising projects.
+- *2026.01*: 🎉 [ProMoE](https://arxiv.org/abs/2510.24711)🚀 is accepted by **ICLR 2026**.
 - *2025.09*: 🎉 [RepLDM](https://arxiv.org/abs/2410.06055), [TTS-VAR](https://arxiv.org/abs/2507.18537) are accepted by **NeurIPS 2025**. Honored to collaborate with them on these promising projects.
-- *2025.06*: 🎉 [DreamRelation](https://arxiv.org/abs/2503.07602), [FreeScale](https://arxiv.org/abs/2412.09626), [PersonalVideo](https://arxiv.org/abs/2411.17048) are accepted by **ICCV 2025**. Honored to collaborate with them on these promising projects.
+- *2025.06*: 🎉 [DreamRelation](https://arxiv.org/abs/2503.07602)🚀, [FreeScale](https://arxiv.org/abs/2412.09626), [PersonalVideo](https://arxiv.org/abs/2411.17048) are accepted by **ICCV 2025**. Honored to collaborate with them on these promising projects.
 - *2025.03*: 🎉 [TeaCache](https://arxiv.org/abs/2411.19108) is accepted by **CVPR 2025 Highlight**. Congrats to Feng.
 - *2024.09*: 🎉 [EvolveDirector](https://arxiv.org/abs/2410.07133) is accepted by **NeurIPS 2024**. Congrats to Rui.
-- *2024.02*: 🎉 [DreamVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_DreamVideo_Composing_Your_Dream_Videos_with_Customized_Subject_and_Motion_CVPR_2024_paper.html), [InstructVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_InstructVideo_Instructing_Video_Diffusion_Models_with_Human_Feedback_CVPR_2024_paper.html), [HiGen](https://openaccess.thecvf.com/content/CVPR2024/html/Qing_Hierarchical_Spatio-temporal_Decoupling_for_Text-to-Video_Generation_CVPR_2024_paper.html) are accepted by **CVPR 2024**. Honored to collaborate with them on these promising projects.
+- *2024.02*: 🎉 [DreamVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_DreamVideo_Composing_Your_Dream_Videos_with_Customized_Subject_and_Motion_CVPR_2024_paper.html)🚀, [InstructVideo](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_InstructVideo_Instructing_Video_Diffusion_Models_with_Human_Feedback_CVPR_2024_paper.html), [HiGen](https://openaccess.thecvf.com/content/CVPR2024/html/Qing_Hierarchical_Spatio-temporal_Decoupling_for_Text-to-Video_Generation_CVPR_2024_paper.html) are accepted by **CVPR 2024**. Honored to collaborate with them on these promising projects.
 - *2023.08*: 🎉 [Emo-DNA](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) is accepted by **ACM MM 2023**. Congrats to Jiaxin.
-- *2023.07*: 🎉 [OnPro](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html) is accepted by **ICCV 2023**.
+- *2023.07*: 🎉 [OnPro](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.html)🚀 is accepted by **ICCV 2023**.
 - *2023.02*: 🎉 [Temporal Modeling Matters](https://ieeexplore.ieee.org/abstract/document/10096370) is accepted by ICASSP 2023. Congrats to Jiaxin.

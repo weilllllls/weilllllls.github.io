@@ -136,7 +136,9 @@ Zhiwu Qing, Shiwei Zhang, Jiayu Wang, Xiang Wang, **Yujie Wei**, Yingya Zhang, C
 </div>
 </div>
 
-- `NeurIPS 2025 Spotlight` [RepLDM: Reprogramming Pretrained Latent Diffusion Models for High-Quality, High-Efficiency, High-Resolution Image Generation](https://arxiv.org/abs/2410.06055),Boyuan Cao, Jiaxin Ye, **Yujie Wei**, Hongming Shan.
+- `CVPR 2026` [SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation](https://arxiv.org/abs/2506.23690), Shuai Tan, Biao Gong, **Yujie Wei**, Shiwei Zhang, Zhuoxin Liu, Dandan Zheng, Jingdong Chen, Yan Wang, Hao Ouyang, Kecheng Zheng, Yujun Shen.
+
+- `NeurIPS 2025 Spotlight` [RepLDM: Reprogramming Pretrained Latent Diffusion Models for High-Quality, High-Efficiency, High-Resolution Image Generation](https://arxiv.org/abs/2410.06055), Boyuan Cao, Jiaxin Ye, **Yujie Wei**, Hongming Shan.
 
 - `NeurIPS 2025` [TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation](https://arxiv.org/abs/2507.18537), Zhekai Chen, Ruihang Chu, Yukang Chen, Shiwei Zhang, **Yujie Wei**, Yingya Zhang, Xihui Liu.
 
