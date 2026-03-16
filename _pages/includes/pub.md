@@ -53,6 +53,19 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/papers/DreamVideo-Omni.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Video Generation]** [DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning](https://arxiv.org/abs/2603.12257) \\
+**Yujie Wei**, Xinyu Liu, Shiwei Zhang, Hangjie Yuan, Jinbo Xing, Zhekai Chen, Xiang Wang, Haonan Qiu, Rui Zhao, Yutong Feng, Ruihang Chu, Yingya Zhang, Yike Guo, Xihui Liu, Hongming Shan
+
+[[Project page]](http://dreamvideo-omni.github.io/)
+
+- DreamVideo-Omni is a unified framework enabling harmonious multi-subject customization with omni-motion control via omni-motion and identity supervised finetuning as well as latent identity reward feedback learning.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/papers/DreamVideo-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
