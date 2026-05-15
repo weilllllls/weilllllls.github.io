@@ -78,21 +78,13 @@
 </div>
 </div>
 
+- `CVPR 2026` **[AI for Science]** [Bridging Brain and Semantics: A Hierarchical Framework for Semantically Enhanced fMRI-to-Video Reconstruction](http://arxiv.org/abs/2605.14569), **Yujie Wei**, Chenglong Ma, Jianxiong Gao, Chenhui Wang, Shiwei Zhang, Biao Gong, Shuai Tan, Hangjie Yuan, Hongming Shan.
+
+- `Arxiv` **[Reinforcement Learning]** [AesRM: Improving Video Aesthetics with Expert-Level Feedback](https://arxiv.org/abs/2604.28078), Yujin Han\*, **Yujie Wei\***, Yefei He, Xinyu Liu, Tianle Li, Zichao Yu, Andi Han, Shiwei Zhang, Tingyu Weng, Difan Zou.
+
+- `Arxiv` **[Benchmark]** [AIBench: Evaluating Visual-Logical Consistency in Academic Illustration Generation](https://arxiv.org/abs/2603.28068), Zhaohe Liao\*, Kaixun Jiang\*, Zhihang Liu\*, **Yujie Wei\***, Junqiu Yu\*, Quanhao Li\*, Hong-Tao Yu\*, Pandeng Li, Yuzheng Wang, Zhen Xing, Shiwei Zhang, Chen-Wei Xie, Yun Zheng, Xihui Liu.
+
 ## Collaborative Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/FreeScale.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
-Haonan Qiu, Shiwei Zhang, **Yujie Wei**, Ruihang Chu, Hangjie Yuan, Xiang Wang, Yingya Zhang, Ziwei Liu
-
-[[Project page]](http://haonanqiu.com/projects/FreeScale.html)
-[[Code]](https://github.com/ali-vilab/FreeScale)
-
-- FreeScale proposes a tuning-free inference paradigm to enable higher-resolution visual generation via scale fusion.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/papers/TeaCache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,20 +98,6 @@ Feng Liu, Shiwei Zhang, Xiaofeng Wang, **Yujie Wei**, Haonan Qiu, Yuzhong Zhao, 
 - TeaCache is a training-free caching approach that estimates and leverages the fluctuating differences among model outputs across timesteps.
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/EvolveDirector.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](https://arxiv.org/abs/2410.07133) \\
-Rui Zhao, Hangjie Yuan, **Yujie Wei**, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Zhangjie Wu, Junhao Zhang, Yingya Zhang, Mike Zheng Shou
-
-[[Code]](https://github.com/showlab/EvolveDirector)
-
-- EvolveDirector explores the feasibility of training a text-to-image generation model comparable to advanced models using publicly available resources.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/InstructVideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -148,6 +126,34 @@ Zhiwu Qing, Shiwei Zhang, Jiayu Wang, Xiang Wang, **Yujie Wei**, Yingya Zhang, C
 - HiGen is a method that improves T2V performance by decoupling the spatial and temporal factors from the structure and content level.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/FreeScale.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
+Haonan Qiu, Shiwei Zhang, **Yujie Wei**, Ruihang Chu, Hangjie Yuan, Xiang Wang, Yingya Zhang, Ziwei Liu
+
+[[Project page]](http://haonanqiu.com/projects/FreeScale.html)
+[[Code]](https://github.com/ali-vilab/FreeScale)
+
+- FreeScale proposes a tuning-free inference paradigm to enable higher-resolution visual generation via scale fusion.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/EvolveDirector.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](https://arxiv.org/abs/2410.07133) \\
+Rui Zhao, Hangjie Yuan, **Yujie Wei**, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Zhangjie Wu, Junhao Zhang, Yingya Zhang, Mike Zheng Shou
+
+[[Code]](https://github.com/showlab/EvolveDirector)
+
+- EvolveDirector explores the feasibility of training a text-to-image generation model comparable to advanced models using publicly available resources.
+</div>
+</div>
+
 
 - `CVPR 2026` [SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation](https://arxiv.org/abs/2506.23690), Shuai Tan, Biao Gong, **Yujie Wei**, Shiwei Zhang, Zhuoxin Liu, Dandan Zheng, Jingdong Chen, Yan Wang, Hao Ouyang, Kecheng Zheng, Yujun Shen.
 
