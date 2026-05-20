@@ -66,6 +66,17 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/papers/MSAVBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Benchmark]** [MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation](https://arxiv.org/abs/2605.20183) \\
+**Yujie Wei**, Yujin Han, Zhekai Chen, Yongming Li, Kaixun Jiang, Zhihang Liu, Quanhao Li, Zhiwu Qing, Xiang Wang, Zhen Xing, Ruihang Chu, Lingyi Hong, Yefei He, Junjie Zhou, Junqiu Yu, Yang Shi, Difan Zou, Kai Zhu, Shiwei Zhang, Yingya Zhang, Yu Liu, Xihui Liu, Hongming Shan
+
+- MSAVBench is the first comprehensive benchmark and adaptive hybrid evaluation framework for multi-shot audio-video generation.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/papers/DreamVideo-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,11 +89,14 @@
 </div>
 </div>
 
+
 - `CVPR 2026` **[AI for Science]** [Bridging Brain and Semantics: A Hierarchical Framework for Semantically Enhanced fMRI-to-Video Reconstruction](http://arxiv.org/abs/2605.14569), **Yujie Wei**, Chenglong Ma, Jianxiong Gao, Chenhui Wang, Shiwei Zhang, Biao Gong, Shuai Tan, Hangjie Yuan, Hongming Shan.
 
 - `Arxiv` **[Reinforcement Learning]** [AesRM: Improving Video Aesthetics with Expert-Level Feedback](https://arxiv.org/abs/2604.28078), Yujin Han\*, **Yujie Wei\***, Yefei He, Xinyu Liu, Tianle Li, Zichao Yu, Andi Han, Shiwei Zhang, Tingyu Weng, Difan Zou.
 
 - `Arxiv` **[Benchmark]** [AIBench: Evaluating Visual-Logical Consistency in Academic Illustration Generation](https://arxiv.org/abs/2603.28068), Zhaohe Liao\*, Kaixun Jiang\*, Zhihang Liu\*, **Yujie Wei\***, Junqiu Yu\*, Quanhao Li\*, Hong-Tao Yu\*, Pandeng Li, Yuzheng Wang, Zhen Xing, Shiwei Zhang, Chen-Wei Xie, Yun Zheng, Xihui Liu.
+
+---
 
 ## Collaborative Publications
 
