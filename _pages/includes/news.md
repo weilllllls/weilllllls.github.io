@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.06*: 🎉 [Lumos-Nexus](https://arxiv.org/abs/2605.31603) is accepted by **ECCV 2026**. Congrats to Jiazheng.
 - *2026.02*: 🎉 [CineNeuron](http://arxiv.org/abs/2605.14569)🚀, [SynMotion](https://arxiv.org/abs/2506.23690) are accepted by **CVPR 2026**. Honored to collaborate with them on these promising projects.
 - *2026.01*: 🎉 [ProMoE](https://arxiv.org/abs/2510.24711)🚀 is accepted by **ICLR 2026**.
 - *2025.09*: 🎉 [RepLDM](https://arxiv.org/abs/2410.06055), [TTS-VAR](https://arxiv.org/abs/2507.18537) are accepted by **NeurIPS 2025**. Honored to collaborate with them on these promising projects.
