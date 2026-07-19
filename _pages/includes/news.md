@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.07*: 🎉 [DiffusionOPD](https://arxiv.org/abs/2605.15055) is accepted by **SIGGRAPH Asia 2026**. Congrats to Quanhao.
 - *2026.06*: 🎉 [Lumos-Nexus](https://arxiv.org/abs/2605.31603) is accepted by **ECCV 2026**. Congrats to Jiazheng.
 - *2026.02*: 🎉 [CineNeuron](http://arxiv.org/abs/2605.14569)🚀, [SynMotion](https://arxiv.org/abs/2506.23690) are accepted by **CVPR 2026**. Honored to collaborate with them on these promising projects.
 - *2026.01*: 🎉 [ProMoE](https://arxiv.org/abs/2510.24711)🚀 is accepted by **ICLR 2026**.
