@@ -1,8 +1,9 @@
 # 🎓 Academic Service
-- Conference Reviewer: ICLR, CVPR, ICCV, ACM MM, NeurIPS, SIGGRAPH Asia, ICML, BMVC, ECCV, TMLR, AAAI.
-- Journal Reviewer: TPAMI ([Certificate](https://img.alicdn.com/imgextra/i1/O1CN01XTgTEt1V8W41HrG31_!!6000000002608-2-tps-9507-6719.png)), IJCV, TIP, Information Fusion.
+- Conference Reviewer: ICLR, CVPR, ICCV, ACM MM, NeurIPS, SIGGRAPH Asia, ICML, BMVC, ECCV, AAAI.
+- Journal Reviewer: TPAMI ([Certificate](https://img.alicdn.com/imgextra/i1/O1CN01XTgTEt1V8W41HrG31_!!6000000002608-2-tps-9507-6719.png)), IJCV, TIP, Information Fusion, TMLR.
 
 # 💬 Invited Talks
+- *2026.10.12*, Mixture-of-Experts Architecture for Visual Generative Models, 三星电子中国研究院
 - *2024.11*, Customized Image & Video Generation, 3D视觉工坊 & 3DCV & 计算机视觉工坊 \| [\[Link\]](https://mp.weixin.qq.com/s/j6qBhzircJHQIQGTwGUu-g) \| [\[Video\]](https://youtu.be/wAiL3DLz9-E)
 
 # 📖 Educations
